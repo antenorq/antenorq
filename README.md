@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @antenorq
 - 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning Angular 14
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Front End chalenges
 - 📫 How to reach me: antenorq@gmail.com
 
