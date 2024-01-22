@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @antenorq
-- 👀 I’m interested in Front-End Development
+- 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on Front End chalenges
+- 💞️ I’m looking to collaborate on New chalenges
 - 📫 How to reach me: antenorq@gmail.com
 
 <!---
